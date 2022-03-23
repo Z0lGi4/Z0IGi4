@@ -29,8 +29,7 @@ I currently live in Malta, Small Island in the mediterrainen sea, some of the co
 Some picturce of this lovely island!
 
 <div>
-  <img src="![m3](https://user-images.githubusercontent.com/42749916/159684257-2e003925-5cfb-4a14-9193-e57e47d2ddb2.jpg)
-" width="250" height="250"/>
+  <img src="" height="250"/>
   <img src="![m2](https://user-images.githubusercontent.com/42749916/159684312-bd76bf31-0971-4883-aac6-da87b5d7500a.jpg)
 " width="250" height="250"/>
   <img src="![m4](https://user-images.githubusercontent.com/42749916/159684537-4175191c-eca8-4293-b3ea-eaa27f720a78.jpg)
