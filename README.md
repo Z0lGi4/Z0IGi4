@@ -29,12 +29,12 @@ I currently live in Malta, Small Island in the mediterrainen sea, some of the co
 Some picturce of this lovely island!
 
 <div>
-  <img src="" height="250"/>
-  <img src="![m2](https://user-images.githubusercontent.com/42749916/159684312-bd76bf31-0971-4883-aac6-da87b5d7500a.jpg)
-" width="250" height="250"/>
-  <img src="![m4](https://user-images.githubusercontent.com/42749916/159684537-4175191c-eca8-4293-b3ea-eaa27f720a78.jpg)
-" width="250" height="250"/>
+  <img src="https://user-images.githubusercontent.com/42749916/159690446-be85a154-ceed-4279-8c0a-02e40c06ff59.jpg" height="250"/>
+  <img src="https://user-images.githubusercontent.com/42749916/159684312-bd76bf31-0971-4883-aac6-da87b5d7500a.jpg" width="350" height="250"/>
+  <img src="https://user-images.githubusercontent.com/42749916/159691070-e4accbb6-4fa7-4167-a071-b44c43f0bc87.jpg" width="350" height="250"/>
+  <img src="https://user-images.githubusercontent.com/42749916/159691519-113ce4e9-816f-482a-bd56-b7c62a69072e.jpg" width="350" height="250"/>
 </div>
+
 
 ## 👨‍💻 Github Stats
 
