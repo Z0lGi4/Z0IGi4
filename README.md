@@ -24,9 +24,9 @@ Few things about myself <img src="https://emojis.slackmojis.com/emojis/images/15
 
 ## Hey there, Malta!
 
-I currently live in Malta, Small Island in the mediterrainen sea, some of the cool places in and around the area if you get a chance! 
+I currently live in Malta, Small Island in the mediterrainen sea, some of the cool places in and around the area if you get a chance to visit! 
 
-Some picturce of this lovely island!
+Some scenario images of this lovely island!
 
 <div>
   <img src="https://user-images.githubusercontent.com/42749916/159690446-be85a154-ceed-4279-8c0a-02e40c06ff59.jpg" height="250"/>
