@@ -11,7 +11,7 @@ Few things about myself <img src="https://emojis.slackmojis.com/emojis/images/15
 
 * 🖥️ Currently working as a Technical Project Coordinator at KingMakers.
 * 🖨️ I love working on security related projects and creating tools that help the community.
-* ⛰️Love travelling across various countries, my favorite place so far is Japan!. My absolute favorite:  🥁🥁 <a href="https://www.wta.org/go-hiking/hikes/mailbox-peak">Mailbox Peak</a>
+* ⛰️Love travelling across various countries, my favorite place so far is Japan!.
   
 ## 🚀 Latest Blog Posts
 
@@ -29,9 +29,12 @@ I currently live in Malta, Small Island in the mediterrainen sea, some of the co
 Some picturce of this lovely island!
 
 <div>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fmalta&psig=AOvVaw2UOJzEP1V74v6Hfixi6Ov1&ust=1648118858654000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiw7KqH3PYCFQAAAAAdAAAAABAK" width="250" height="250"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcapturetheatlas.com%2Fis-malta-open-for-travel%2F&psig=AOvVaw2UOJzEP1V74v6Hfixi6Ov1&ust=1648118858654000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiw7KqH3PYCFQAAAAAdAAAAABAb" width="250" height="250"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lonelyplanet.com%2Farticles%2Fmalta-gozos-best-beaches&psig=AOvVaw2UOJzEP1V74v6Hfixi6Ov1&ust=1648118858654000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiw7KqH3PYCFQAAAAAdAAAAABAt" width="250" height="250"/>
+  <img src="![m3](https://user-images.githubusercontent.com/42749916/159684257-2e003925-5cfb-4a14-9193-e57e47d2ddb2.jpg)
+" width="250" height="250"/>
+  <img src="![m2](https://user-images.githubusercontent.com/42749916/159684312-bd76bf31-0971-4883-aac6-da87b5d7500a.jpg)
+" width="250" height="250"/>
+  <img src="![m4](https://user-images.githubusercontent.com/42749916/159684537-4175191c-eca8-4293-b3ea-eaa27f720a78.jpg)
+" width="250" height="250"/>
 </div>
 
 ## 👨‍💻 Github Stats
