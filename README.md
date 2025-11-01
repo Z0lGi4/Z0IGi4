@@ -1,49 +1,121 @@
-# Hi, I'm Daniel Stafrace (:computer:)
-![](https://komarev.com/ghpvc/?username=Z0lGi4)
+# Daniel Stafrace — IT Security Leader • TechOps • AI + Cloud
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielstafrace/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.secopsresources.com)
+<!-- Badges (optional) -->
+<!-- Replace BADGE_URL_* and LINK_* with your links -->
+[![Security](BADGE_URL_SECURITY)](LINK_SECURITY)
+[![Azure](BADGE_URL_AZURE)](LINK_AZURE)
+[![AI/ML](BADGE_URL_AI)](LINK_AI)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Technical+Project+Coordinator;My+Passion+is+Security+and+Cloud+technologies)](https://git.io/typing-svg)
+Hi, I'm Daniel — Director of IT & Security leading cybersecurity and IT operations, building resilient TechOps, and integrating AI to drive measurable outcomes.
 
+- Location: Malta
+- Roles: Director of IT & Security; ex-Head of IT at Kingmakers; leadership at GameLounge
+- Interests: Cybersecurity, TechOps/SRE, AI integration, business consulting, fitness, weekend travel
 
-Few things about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
+## Quick links
+- Portfolio: LINK_PORTFOLIO
+- LinkedIn: LINK_LINKEDIN
+- Contact: LINK_CONTACT
 
-* 🖥️ Currently working as a Technical Project Coordinator at KingMakers.
-* 🖨️ I love working on security related projects and creating tools that help the community.
-* ⛰️Love travelling across various countries, my favorite place so far is Japan!.
-  
-## 🚀 Latest Blog Posts
+---
 
-<!-- BLOG-POST-LIST:START -->
-*TBD
-<!-- BLOG-POST-LIST:END -->
+<details open>
+  <summary>About</summary>
 
-## 🎧 What's Vibin?
+Passionate about secure-by-default platforms, incident-ready operations, and pragmatic automation.  
+Leading cross-functional teams to reduce risk, increase delivery velocity, and remove single points of failure.
 
+- Security leadership across Azure/M365 and hybrid
+- DevOps/SRE practices for repeatable reliability
+- AI-assisted ops for detection, response, and toil reduction
+</details>
 
-## Hey there, Malta!
+---
 
-I currently live in Malta, Small Island in the mediterrainen sea, some of the cool places in and around the area if you get a chance to visit! 
+<details>
+  <summary>Core domains</summary>
 
-Some scenario images of this lovely island!
+- Security Leadership & Governance
+- Cloud Security: Azure (Defender for Cloud, Sentinel), M365
+- DevOps/SRE: Automation, observability, incident response
+- AI & Automation: Copilots, LLM ops, detection/routing
+- Compliance & Risk: Practical controls and evidence at scale
+</details>
 
-<div>
-  <img src="https://user-images.githubusercontent.com/42749916/159690446-be85a154-ceed-4279-8c0a-02e40c06ff59.jpg" height="250"/>
-  <img src="https://user-images.githubusercontent.com/42749916/159684312-bd76bf31-0971-4883-aac6-da87b5d7500a.jpg" width="350" height="250"/>
-  <img src="https://user-images.githubusercontent.com/42749916/159691070-e4accbb6-4fa7-4167-a071-b44c43f0bc87.jpg" width="350" height="250"/>
-  <img src="https://user-images.githubusercontent.com/42749916/159691519-113ce4e9-816f-482a-bd56-b7c62a69072e.jpg" width="350" height="250"/>
-</div>
+---
 
+<details open>
+  <summary>Portfolio highlights</summary>
 
-## 👨‍💻 Github Stats
+### Status-pages Aggregator / Incident Monitor
+- Aggregates vendor/service status and normalizes incidents into one pane of glass.
+- Impact: Faster comms, reduced MTTA/MTTR, better stakeholder visibility.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Z0lGi4&show_icons=true&theme=dracula" />
+### TechOps Guardrails (SRE)
+- Policy-as-code, golden paths, and preflight checks across CI/CD and infra.
+- Impact: Fewer regressions, safer deploys, measurable error-budget adherence.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0lGi4&layout=compact" />
+### Multi-Cloud Security Posture Evaluator
+- Benchmarks controls, exceptions, and drifts; exports metrics for exec dashboards.
+- Impact: Evidence-driven security posture improvements.
 
-![Metrics](https://github.com/Z0lGi4/Z0lGi4/blob/main/github-metrics.svg)
+### Sentinel Threat Hunting Pack
+- Notebooks, queries, and enrichment pipelines for repeatable threat hunts.
+- Impact: Higher signal-to-noise, time saved for analysts.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-</p>
+<!-- Add repo links or case studies once public -->
+</details>
+
+---
+
+<details>
+  <summary>Impact metrics (examples)</summary>
+
+- [x] Reduced incident MTTR via improved routing and runbooks
+- [x] Standardized release pipelines with preflight policy gates
+- [x] Closed critical control gaps with automated evidence capture
+- [ ] Expand AI copilots to frontline operations
+</details>
+
+---
+
+<details>
+  <summary>Certs & learning</summary>
+
+- Current focus: Azure security, Sentinel, Defender for Cloud, AI for SecOps
+- Next up: AWS Security specialization to broaden multi-cloud coverage
+- In progress: Practical AI apps for TechOps portfolio
+
+<!-- Optional: add progress visuals or badges here -->
+</details>
+
+---
+
+<details>
+  <summary>Tech stack</summary>
+
+- Cloud & Sec: Azure, Defender for Cloud, Sentinel, M365, Entra
+- DevOps/SRE: GitHub Actions, Terraform, CI/CD, Observability
+- Data & AI: Python, notebooks, prompt tooling, automation scripts
+</details>
+
+---
+
+## Latest writing
+<!-- POSTS:START -->
+<!-- POSTS:END -->
+
+## Recent activity
+<!-- ACTIVITY:START -->
+<!-- ACTIVITY:END -->
+
+## Contact
+- Email: NAME [at] DOMAIN
+- LinkedIn: LINK_LINKEDIN
+- Speaking & advisory: LINK_BOOKING
+
+<!-- Optional: Stats & trophies (add later)
+![GitHub Stats](STATS_IMAGE_URL)
+![Streak](STREAK_IMAGE_URL)
+![Top Langs](TOP_LANGS_IMAGE_URL)
+-->
