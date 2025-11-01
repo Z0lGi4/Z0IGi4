@@ -6,7 +6,7 @@
 [![Azure](BADGE_URL_AZURE)](LINK_AZURE)
 [![AI/ML](BADGE_URL_AI)](LINK_AI)
 
-Hi, I'm Daniel — Director of IT & Security leading cybersecurity and IT operations, building resilient TechOps, and integrating AI to drive measurable outcomes.
+Hi, I'm Daniel Director of IT & Security leading cybersecurity and IT operations, building resilient TechOps, and integrating AI to drive measurable outcomes.
 
 - Location: Malta
 - Roles: Director of IT & Security; ex-Head of IT at Kingmakers; leadership at GameLounge
